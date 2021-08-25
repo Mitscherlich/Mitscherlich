@@ -36,8 +36,7 @@ let scroll = null
 
 onMounted(async () => {
   scroll = new BScroll(unref(scrollEl), {
-    scrollbar: true,
-    wheel: false
+    click: true
   })
 })
 
