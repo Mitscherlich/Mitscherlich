@@ -51,7 +51,7 @@ async function sendMessage({ question, answers = [] }) {
   const { timestamp = Date.now() } = messageList[messageList.length - 1] ?? {}
 
   await updateMessageList({
-    title: Date.now() - timestamp >= 300_000 /* 5min */,
+    title: !messageList.length || Date.now() - timestamp >= 300_000 /* 5min */,
     question,
     answers
   })
@@ -110,6 +110,6 @@ async function updateMessageList({ title = false, question, answers = [] }) {
 }
 
 .message-list {
-  @apply flex flex-col px-2;
+  @apply flex flex-col px-2 pt-2;
 }
 </style>
