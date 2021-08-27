@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- Read more about my [Blog](https://mitscherlich.me/blog/)
 - Talk with me by [Email](mailto:mitscherlich36@gmail.com)
 - Follow me on [Twitter](https://twitter.com/MitscherlichW) [bilibili](https://space.bilibili.com/17636754) or [掘金](https://juejin.cn/user/342703356518632)
+- Read more about my [Blog](https://mitscherlich.me/blog/)
 
 🏗 **Definitions**
 
