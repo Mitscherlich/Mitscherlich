@@ -23,7 +23,3 @@ const Mitscherlich = {
   architecture: ['microfrontend', 'SPA/SSR', 'DevOps']
 }
 ```
-
-📊 **This week I spent my time on**
-
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Mitscherlich&hide_title=true&hide_border=true&langs_count=5)
