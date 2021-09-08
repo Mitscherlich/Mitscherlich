@@ -9,7 +9,7 @@
 ```js
 const Mitscherlich = {
   code: ['JavaScript', 'TypeScript', 'Python', 'Java'],
-  askMeAbout: ['Web DEvelopment', 'Tech'],
+  askMeAbout: ['Web Development', 'Tech'],
   technologies: {
     frontEnd: {
       js: ['Vue', 'Vuex', 'Nuxt']
