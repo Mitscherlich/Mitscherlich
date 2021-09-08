@@ -9,7 +9,7 @@
 ```js
 const Mitscherlich = {
   code: ['JavaScript', 'TypeScript', 'Python', 'Java'],
-  askMeAbout: ['web dev', 'tech'],
+  askMeAbout: ['Web DEvelopment', 'Tech'],
   technologies: {
     frontEnd: {
       js: ['Vue', 'Vuex', 'Nuxt']
@@ -20,6 +20,6 @@ const Mitscherlich = {
     devOps: ['Docker🐳', 'Nginx'],
     databases: ['mongo']
   },
-  architecture: ['microfrontend', 'SPA/SSR', 'DevOps']
+  architecture: ['Microfrontend', 'SPA/SSR', 'DevOps']
 }
 ```
