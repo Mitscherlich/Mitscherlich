@@ -44,7 +44,8 @@ const typing = ref(false)
 
 const MASK_DISSMISS = storage.get('MASK_DISSMISS', false)
 
-const showMask = ref(!MASK_DISSMISS)
+// const showMask = ref(!MASK_DISSMISS)
+const showMask = ref(false)
 
 const stories = Object.entries(
   import.meta.globEager('./stories/*.json')
