@@ -42,8 +42,7 @@ import { menu } from './config/menu.json'
 
 const typing = ref(false)
 
-// const MASK_DISSMISS = storage.get('MASK_DISSMISS', false)
-const MASK_DISSMISS = true
+const MASK_DISSMISS = storage.get('MASK_DISSMISS', false)
 
 const showMask = ref(!MASK_DISSMISS)
 
