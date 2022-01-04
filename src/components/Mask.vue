@@ -42,7 +42,7 @@ watch(state, () => {
 }
 
 .logo-wrapper {
-  @apply w-40 h-40 mb-10 p-3 bg-white rounded-lg shadow-lg;
+  @apply w-40 h-40 mb-10 drop-shadow;
 }
 
 .content {
