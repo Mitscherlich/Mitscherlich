@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Talk with me by [Email](mailto:mitscherlich36@gmail.com) or [Telegram](https://t.me/Mitscherlich)
+- Talk with me by [Email](mailto:contact@mitscherlich) or [Telegram](https://t.me/Mitscherlich)
 - Follow me on [Twitter](https://twitter.com/MitscherlichW) [bilibili](https://space.bilibili.com/17636754) or [掘金](https://juejin.cn/user/342703356518632)
 - Read more about my [Blog](https://blog.mitscherlich.me/)
 
