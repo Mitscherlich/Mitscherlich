@@ -12,7 +12,7 @@
         { "id": "Hobbits", "text": "兴趣爱好" }
       ]
     },
-    { "id": "Blog", "text": "我的博客" },
+    { "id": "Blog", "text": "Blog" },
     { "id": "Github", "text": "Github" }
   ]
 }
