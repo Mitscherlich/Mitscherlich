@@ -3,7 +3,7 @@ name: Github Pages
 on:
   push:
     branches:
-      - dev
+      - amin
 
 jobs:
   deploy:
@@ -23,7 +23,7 @@ jobs:
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
-        if: ${{ github.ref == 'refs/heads/dev' }}
+        if: ${{ github.ref == 'refs/heads/amin' }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
