@@ -36,7 +36,7 @@ import ActionBar from './components/ActionBar.vue'
 import ActionMenu from './components/ActionMenu.vue'
 import Mask from './components/Mask.vue'
 import README from './README.md'
-import logo from './images/logo.png'
+import logo from './images/feishu.png'
 import { interopDefault } from './_utils/interopDefault'
 import { menu } from './config/menu.json'
 

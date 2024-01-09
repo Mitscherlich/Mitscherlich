@@ -1,1 +1,1 @@
-目前已入职[小红书](https://job.xiaohongshu.com/)担任前端开发
+目前已加入[飞书](https://www.feishu.cn/)担任前端开发
